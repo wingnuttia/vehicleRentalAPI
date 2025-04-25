@@ -1,0 +1,28 @@
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled files
+target/
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment & config
+*.env
+*.properties.local
+
+# Maven
+.mvn/
+dependency-reduced-pom.xml
+
+# H2 DB
+*.mv.db
+*.h2.db
